@@ -1,0 +1,11 @@
+Resposta:
+
+Ligo o primeiro interruptor e espere alguns minutos.
+Desligo o primeiro interruptor e ligo o segundo interruptor.
+Entro em duas das salas.
+
+Explicação:
+Quando entrar na sala, uma lâmpada estará acesa, outra estará desligada e uma terceira estará apagada mas quente.
+A lâmpada que está acesa estará ligada ao interruptor que eu deixei ligado. 
+A lâmpada que está desligada e em temperatura ambiente esta ligada ao interruptor que não mexi. 
+E a lâmpada que está apagada mas quente estará conectada ao primeiro interruptor que liguei.
